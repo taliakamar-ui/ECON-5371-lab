@@ -25,7 +25,7 @@ by cell using the '# %%' markers), or top to bottom as a single script.
 #
 # Step 2: Set the lab folder location.
 
-LAB_FOLDER = r"\Users\ncachanosky\OneDrive\Research\GitHub\ECON-5371-lab\lab_3"
+LAB_FOLDER = r"C:\Users\talia\OneDrive\Documentos\GitHub\ECON-5371-lab\Lab 3"
 
 import os
 
